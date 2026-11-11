@@ -1,5 +1,0 @@
-{
-  "open youtube": {"action": "open_url", "value": "https://www.youtube.com"},
-  "open github": {"action": "open_url", "value": "https://github.com"},
-  "who made you": {"action": "say", "value": "I was built in Python as part of an internship project."}
-}
