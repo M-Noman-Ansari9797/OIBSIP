@@ -1,0 +1,3 @@
+# The chat applications use only the Python standard library.
+# Optional: native desktop notifications in the GUI client.
+plyer>=2.1
